@@ -1,7 +1,9 @@
 # Will-It-Fly
 ### Flight Delay Prediction Application
 
-- **Developed an application** to predict flight delays using machine learning and exploratory data analysis.
+* At the moment the only code that is made public from this project is a jupyter notebook containing the pre-processing of the data and model implementation
+
+**Developed an application** to predict flight delays using machine learning and exploratory data analysis.
 
 #### Data Collection and Preparation
 - Sourced flight data from multiple APIs and created a comprehensive DataFrame using Python and Pandas.
