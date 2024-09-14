@@ -1,7 +1,6 @@
 # Will-It-Fly
+*At the moment, the only code that is made public from this project is a Jupyter notebook containing the pre-processing of the data and model implementation.*
 ### Flight Delay Prediction Application
-
-* At the moment the only code that is made public from this project is a jupyter notebook containing the pre-processing of the data and model implementation
 
 **Developed an application** to predict flight delays using machine learning and exploratory data analysis.
 
